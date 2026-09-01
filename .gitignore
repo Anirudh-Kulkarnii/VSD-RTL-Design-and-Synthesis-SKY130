@@ -1,0 +1,7 @@
+a.out
+*.o
+*.swp
+*.log
+*.history
+*.backup
+*.lib
